@@ -10,3 +10,4 @@ for char in text.lower():
     new_index = index + shift
     encrypted_text += alphabet[new_index]
     print('char:', char, 'encrypted text:', encrypted_text)
+#baru
